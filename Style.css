@@ -156,7 +156,7 @@ hr{border:0;border-top:15px solid #D0A44B;margin:0px 0}
 .w3-border-0{border:0!important}.w3-border{border:1px solid #ccc!important}
 .w3-border-top{border-top:1px solid #ccc!important}.w3-border-bottom{border-bottom:1px solid #ccc!important}
 
-.w3-border-left {border-left:60px solid #31A47A transparent;background-color:lightgray} 
+.w3-border-left {border-left:60px solid #31A47A;background-color:lightgray} 
 
 
 .w3-topbar{border-top:6px solid #ccc!important}.w3-bottombar{border-bottom:6px solid #ccc!important}
